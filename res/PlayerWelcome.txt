@@ -1,0 +1,8 @@
+!!! --- !!! --- !!! --- !!!\n
+-> INTRUSION DETECTED <-\n
+---------------------------\n
+- That's right someone has hacked into the blockchain network!\n
+- As a member of cyber force, it is your job to ensure the safety of all users on the network!\n
+- Your job will be to mine the bitcoins before the intruder has a chance to steal the varCoins!\n
+--------------------------\n
+~ WILL YOU STOP THE INTRUDER?\n
